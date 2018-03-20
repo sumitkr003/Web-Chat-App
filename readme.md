@@ -1,4 +1,4 @@
-# YelpCamp
+# Web Chat App
 
 
 ## Getting Started
